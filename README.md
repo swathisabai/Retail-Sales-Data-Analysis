@@ -15,3 +15,6 @@ Analyze customer purchasing trends and sales performance from large CSV exports.
 
 ## Outcome
 Generated actionable insights on top products, monthly revenue, and profit margins.
+
+
+<img width="586" height="558" alt="image" src="https://github.com/user-attachments/assets/af52a92a-2797-4c71-a72f-f22d9e91fea2" />
